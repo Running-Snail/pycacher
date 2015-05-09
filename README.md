@@ -1,2 +1,2 @@
 # pycacher
-## used for cached something
+## used to cache something
